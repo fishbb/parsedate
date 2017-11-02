@@ -1,4 +1,4 @@
-#parsedate
+# parsedate
 
 parsedate.py is a Python module to process various human input dates or date ranges into a uniformed format. 
 
