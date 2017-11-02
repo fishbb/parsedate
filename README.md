@@ -4,7 +4,7 @@ parsedate.py is a Python module to process various human input dates or date ran
 
 Developed for a [code4lib mailing list request](https://lists.clir.org/cgi-bin/wa?A2=ind1710&L=CODE4LIB&P=R24263&1=CODE4LIB&9=A&I=-3&J=on&d=No+Match%3BMatch%3BMatches&z=4).
 
-## What is can do?
+## What is possible?
 
 Take a look at the original data in [testData.csv](testData.csv). After processing, it becomes [Processed_testData.csv](Processed_testData.csv). 
 
